@@ -1,0 +1,15 @@
+.default-box{
+    padding-left: 1%;
+    padding-top: 3%;
+}
+.box-signin{
+    border: 1px solid #e7e7e7;
+    margin-top: 100px;
+    padding: 10%;
+}
+.fix-center{
+    text-align: center;
+}
+.link-point{
+    cursor: pointer;
+}

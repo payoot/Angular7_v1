@@ -1,0 +1,18 @@
+.default-box{
+    padding-left: 1%;
+    padding-top: 3%;
+}
+.fix-center{
+    text-align: center;
+}
+.fixfront-name {
+    /* font-size: 20px;
+    font-weight: 400; */
+}
+.fixfron-input {
+    /* font-size: 16px;
+    font-weight: 500; */
+}
+.link-point{
+    cursor: pointer;
+}

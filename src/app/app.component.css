@@ -1,0 +1,9 @@
+footer {
+    bottom: 0;
+    margin-bottom: 0;
+    border-width: 1px 0 0;
+}
+
+.fix-footer {
+    padding-top: 20px;
+}
